@@ -7,15 +7,18 @@ with A+.
 Front page
 ----------
 
-.. figure:: /images/gallery/aplus-front-page.jpg
+.. figure:: /images/gallery/aplus-front-page.png
 
-The above image shows a screenshot of the front page of `A+ at Aalto University
-<https://plus.cs.aalto.fi/>`_ from Summer 2019. The front page shows at most
-eight recent courses. Each course has optional logo image, name, course
-code and teaching time. All courses have a green "Aalto" tag to indicate that
-the course is for Aalto University students. The Ohjelmointistudio 2 course
-has also a blue "MOOC" tag to indicate the course is also a massive open online
-course. Sections `7.1 Settings a course on production servers
+The above image shows an example screenshot of the front page of `A+ at Aalto University
+<https://plus.cs.aalto.fi/>`_. The front page has two sections. The above sections shows 
+all course instances, that the logged-in user has currently enrolled in, is teaching 
+or assisting. The bottom-section shows all ongoing and recently ended courses.
+
+Each course has optional logo image, name, instance name, course code and teaching time. 
+All courses have a green "Aalto" tag to indicate that the course is for Aalto University students. 
+The Datastructures and Algorithms -course has also a blue "MOOC" tag to indicate 
+the course is also a massive open online course. 
+Sections `7.1 Settings a course on production servers
 <../m07_admin/01_setup>`_
 and `7.2 Course settings <../m07_admin/02_settings>`_ describe these in detail.
 
